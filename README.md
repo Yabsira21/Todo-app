@@ -1,3 +1,5 @@
+LIVE SITE URL: https://yabsira21.github.io/Todo-app/
+
 # Frontend Mentor - Todo app
 
 ![Design preview for the Todo app coding challenge](./design/desktop-preview.jpg)
